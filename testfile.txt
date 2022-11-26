@@ -1,2 +1,4 @@
 ez money
-this is another commit
+this is another commits
+and committing again:w
+
