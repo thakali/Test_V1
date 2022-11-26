@@ -1,4 +1,4 @@
-GitRevert sample 2
+GitRevert sample 2 again
 
 This is Sample File in 2
 
